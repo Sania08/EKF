@@ -1,1 +1,1 @@
-# SLAM
+# 2D trajectory estimation using Extended Kalman Filter
